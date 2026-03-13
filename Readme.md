@@ -1,4 +1,4 @@
-nanoGPT mini-experiments
+nanoGPT
 ========================
 
 Lightweight character-level language models inspired by Andrej Karpathy's nanoGPT tutorials. The repo includes a simple bigram baseline and a small transformer-style model you can train on the bundled text corpus or your own data.
